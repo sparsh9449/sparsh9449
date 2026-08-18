@@ -8,6 +8,6 @@ Interested in Data & Software
 
 Let's Connect!
 
-LinkedIn: [https://www.linkedin.com/in/sparsh-patel-]([url])
+LinkedIn: [https://www.linkedin.com/in/sparsh-patel-]([url](https://www.linkedin.com/in/sparsh-patel-))
 
 E-mail: [sparshptl9449@gmail.com](mailto:sparshptl9449@gmail.com)
