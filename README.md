@@ -9,5 +9,5 @@ Interested in Data & Software
 Let's Connect!
 
 LinkedIn: [https://www.linkedin.com/in/sparsh-patel-](url)
-E-mail: [mailto:sparshptl9449@gmail.com](url)
+E-mail: [sparshptl9449@gmail.com](url)
 
