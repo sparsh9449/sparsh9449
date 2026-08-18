@@ -1,13 +1,11 @@
 # 👋 About Me
 
-Hi! My name is Sparsh Patel.
+ - Hi! My name is Sparsh Patel.
 
-4th Year Computational Math student at the University of Waterloo
+ - 4th Year Computational Math student at the University of Waterloo
 
-Interested in Data & Software
+ - Interested in Data & Software
 
-Let's Connect!
-
+ - Let's Connect!
 LinkedIn: [https://www.linkedin.com/in/sparsh-patel-](https://www.linkedin.com/in/sparsh-patel-)
-
 E-mail: [sparshptl9449@gmail.com](mailto:sparshptl9449@gmail.com)
